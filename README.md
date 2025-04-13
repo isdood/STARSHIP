@@ -12,3 +12,12 @@ This repository includes various AI tools that can be used to create and customi
 
 ## Goal
 The goal of this project is to create personalized AI friends that can enhance the multiplayer gaming experience. By providing AI companions, players can enjoy a more immersive and engaging gaming experience, whether they are playing with friends or solo.
+
+## Technology Stack
+This project uses Zig for performance. Zig is a general-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+## Testing
+The project is initially tested on an Arch Linux based system, specifically EndeavourOS. Ensure compatibility with Arch Linux based systems when running tests.
+
+## Launching the Application
+To launch the application through Steam, use the provided shell script in the `scripts` directory. The script sets up the environment and executes the application through Steam.
